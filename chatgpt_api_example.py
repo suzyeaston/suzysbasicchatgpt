@@ -1,7 +1,7 @@
 import openai
 import os
 
-openai.api_key = "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"
+openai.api_key = "mysecrettokenhahahahahah"
 
 def generate_response(prompt):
     response = openai.ChatCompletion.create(
